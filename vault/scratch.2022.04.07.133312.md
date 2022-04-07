@@ -2,7 +2,7 @@
 id: eip0i0tfv6a26roi0g03rq0
 title: '133312'
 desc: ''
-updated: 1649362049172
+updated: 1649362584129
 created: 1649352796990
 ---
 
@@ -45,7 +45,7 @@ It's symbol is $\lnot$
 
 The conditional statement is the proposition "if $p$, then $q$". It's also known as an **implication**. It's important to note that even if $p$ is false, the proposition can still be true since p only _implies_ the statement $q$. Only when $q$ is false while $p$ is true can a conditional statement be false.
 
-$p$ is known as a _hypothesis_  (or _anecedent_ or _premise_) and $q$ is called the _conclusion_ (or _consequence_).
+$p$ is known as a _hypothesis_  (or _antecedent_ or _premise_) and $q$ is called the _conclusion_ (or _consequence_).
 
 It's synonymous with the _"if then"_ structures in programming.
 
